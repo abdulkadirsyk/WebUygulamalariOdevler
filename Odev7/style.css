@@ -1,0 +1,13 @@
+.kutu{
+    font-size: 25px;
+    text-align: center;
+}
+.home{
+    text-shadow: 2px 2px 5px black;
+}
+.instagram{
+    text-shadow: 2px 2px 5px yellow;
+}
+.upload{
+    text-shadow: 2px 2px 5px red;
+}
